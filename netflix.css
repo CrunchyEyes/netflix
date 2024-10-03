@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    border: 0px;
+}
+.header{
+    background-image: url(Netflix2024.png);
+    height: 500px;
+    position: relative;
+}
+.head{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    background-position: center;
+    position: relative;
+}
+
+.feature{
+    flex-wrap: wrap;
+    height: 100%;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+.email{ 
+    align-items: center;
+    display: flex;
+    align-items: center;
+
+}

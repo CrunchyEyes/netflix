@@ -1,0 +1,198 @@
+*{
+    margin: 0px;
+    border: 0px;
+}
+.main{
+    background-image: url(Netflix2024.png);
+    height: 500px; 
+    width: 100%;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.logo{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 10px;
+    
+}
+.login{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 10px;
+
+}
+.feature{
+    position: absolute;
+    bottom: 10px;
+    left: 350px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+.feature-1{
+    background-color: black;
+    justify-content: space-around;
+    height: 500px; 
+    width: 100%;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+.text1{
+    position: absolute;
+ bottom: 200px;
+right: 650px;
+font-size: 30px;
+text-align: left;
+}
+.img1{
+    position: absolute;
+    left: 650px;
+}
+
+.feature-2{
+    background-color: black;
+    justify-content: space-around;
+    height: 500px; 
+    width: 100%;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+
+.text2{
+    position: absolute;
+ bottom: 200px;
+right: 150px;
+font-size: 30px;
+text-align: left;
+}
+.img2{
+    position: absolute;
+    left: 200px;
+    top: 50px;
+}
+
+.feature-3{
+    background-color: black;
+    justify-content: space-around;
+    height: 500px; 
+    width: 100%;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+.text3{
+    position: absolute;
+ bottom: 250px;
+right: 650px;
+font-size: 30px;
+text-align: left;
+}
+.img3{
+    position: absolute;
+    left: 650px;
+}
+
+.feature-4{
+    background-color: black;
+    justify-content: space-around;
+    height: 500px; 
+    width: 100%;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+
+.text4{
+    position: absolute;
+ bottom: 200px;
+right: 150px;
+font-size: 30px;
+text-align: left;
+}
+.img4{
+    position: absolute;
+    left: 150px;
+    top: 50px;
+}
+
+.knee{
+    background-color: black;
+    color: white;
+    bottom: 10px;
+    left: 350px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 50px;
+    border-bottom: 10px solid grey;
+    border-color: grey;
+}
+
+.footer{
+    background-color: black;
+    color: grey;
+    height: 270px; 
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: left;
+    justify-content: left;
+    text-decoration: none;
+}
+.foot{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-decoration: none;
+}
+.about-1{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-decoration: none;
+}
+.about-2{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-decoration: none;
+}
+.about-3{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-decoration: none;
+}
+
